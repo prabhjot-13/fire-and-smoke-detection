@@ -1,0 +1,5 @@
+train: dataset1/train/images
+val: dataset1/valid/images
+
+nc: 2
+names: ["fire", "smoke"]
